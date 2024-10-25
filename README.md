@@ -5,7 +5,7 @@ Backend Developer | API Enthusiast | Tech Problem-Solver
 ## About Me
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=py,fastapi,flask,mysql,regex&theme=dark)](/)
+[![Skills](https://skillicons.dev/icons?i=py,fastapi,flask,django,mysql,regex&theme=dark)](/)
 
 ## Projects
 
