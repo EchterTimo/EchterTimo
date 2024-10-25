@@ -11,4 +11,6 @@ Backend Developer | API Enthusiast | Python-Fan
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TLT-STUDIOS&repo=TLT-STUDIOS.github.io&show_owner=false)](https://github.com/TLT-STUDIOS/TLT-STUDIOS.github.io)
 
-## Let's Connect!
+## Contact me
+
+- Discord: `@EchterTimo`
