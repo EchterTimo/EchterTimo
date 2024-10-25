@@ -1,9 +1,11 @@
-Hi, im Timo. I'm mostly using python in my projects. But im open to learn new stuff.
+# Hi there! 👋 I'm Timo
 
-# Programming Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo-development&layout=compact" alt="ovi" />
+Backend Developer | API Enthusiast | Tech Problem-Solver
 
-# Currently working on
-```python
-None
-```
+## About Me
+
+## Skills
+
+## Projects
+
+## Let's Connect!
