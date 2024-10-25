@@ -2,7 +2,14 @@
 
 Backend Developer | API Enthusiast | Python-Fan
 
-## About Me
+## About Timo
+
+Timo
+
+- lives in Germany
+- likes APIs
+- likes Python
+- loves learning new things
 
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=py,fastapi,flask,django,mysql,regex&theme=dark)](/)
