@@ -12,9 +12,7 @@ Backend Developer | API Enthusiast | Python-Fan
 
 ## Projects
 
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TLT-STUDIOS&repo=TLT-STUDIOS.github.io&show_owner=false)](https://github.com/TLT-STUDIOS/TLT-STUDIOS.github.io)
-
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TLT-STUDIOS&repo=TLT-STUDIOS.github.io&show_owner=false)](https://github.com/TLT-STUDIOS/TLT-STUDIOS.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TLT-STUDIOS&repo=TLT-STUDIOS.github.io&show_owner=false)](https://github.com/TLT-STUDIOS/TLT-STUDIOS.github.io)
 
 ## Contact me
 
