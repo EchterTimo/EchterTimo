@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Timo
 
-Backend Developer | API Enthusiast | Tech Problem-Solver
+Backend Developer | API Enthusiast | Python-Fan
 
 ## About Me
 
