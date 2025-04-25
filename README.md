@@ -20,7 +20,7 @@
 | <img src="images/spotify.svg" alt="spotify" style="vertical-align: middle; width: 40px; height: 40px;">   | **Spotify**  | Web API, OAuth2           |
 | <img src="images/valorant.svg" alt="valorant" style="vertical-align: middle; width: 40px; height: 40px;"> | **Valorant** | Web API                   |
 
-## 💬 Ask me about
+## ⭐ Skills
 
 ### 🖥️ Languages
 
