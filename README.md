@@ -8,7 +8,7 @@
 
 ## 📫 How to reach me
 
-- Discord: [@EchterTimo](https://discordapp.com/users/EchterTimo.md)
+- Discord: [@EchterTimo](https://discordapp.com/users/709821646776565760)
 
 ## APIs that I have worked with
 
