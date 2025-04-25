@@ -24,9 +24,9 @@
 
 ### 🖥️ Languages
 
-[![Python](https://skillicons.dev/icons?i=python)](https://vuejs.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![Markdown](https://skillicons.dev/icons?i=md)](https://vuejs.org/)
+[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
 [![Regex](https://skillicons.dev/icons?i=regex)](https://regex101.com/)
 
 ### 🌐 Web Development
@@ -53,6 +53,6 @@
 ## 🌱 I’m currently learning
 
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://vuejs.org/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
