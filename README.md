@@ -2,9 +2,9 @@
 
 ## 👀 About Me
 
-<img src="images/birthday.svg" alt="discord" style="vertical-align: middle; width: 60px; height: 60px;"> 20 years oldy<br>
-<img src="images/coding.svg" alt="discord" style="vertical-align: middle; width: 60px; height: 60px;"> Backend Developer<br>
-<img src="images/architect.svg" alt="discord" style="vertical-align: middle; width: 60px; height: 60px;"> Interested in Software Architecture and Design Patterns<br>
+- 20 years old
+- Backend Developer
+- Interested in Software Architecture and Design Patterns
 
 ## 📫 How to reach me
 
