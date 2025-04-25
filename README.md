@@ -14,11 +14,11 @@
 
 | Image                                                                                                     | Name         | Features used             |
 |-----------------------------------------------------------------------------------------------------------|--------------|---------------------------|
-| <img src="images/discord.svg" alt="discord" style="vertical-align: middle; width: 40px; height: 40px;">   | **Discord**  | Bot API, OAuth2, Webhooks |
-| <img src="images/github.svg" alt="github" style="vertical-align: middle; width: 40px; height: 40px;">     | **GitHub**   | Web API                   |
-| <img src="images/steam.svg" alt="steam" style="vertical-align: middle; width: 40px; height: 40px;">       | **Steam**    | Web API                   |
-| <img src="images/spotify.svg" alt="spotify" style="vertical-align: middle; width: 40px; height: 40px;">   | **Spotify**  | Web API, OAuth2           |
-| <img src="images/valorant.svg" alt="valorant" style="vertical-align: middle; width: 40px; height: 40px;"> | **Valorant** | Web API                   |
+| <img src="apis/discord.svg" alt="discord" style="vertical-align: middle; width: 40px; height: 40px;">   | **Discord**  | Bot API, OAuth2, Webhooks |
+| <img src="apis/github.svg" alt="github" style="vertical-align: middle; width: 40px; height: 40px;">     | **GitHub**   | Web API                   |
+| <img src="apis/steam.svg" alt="steam" style="vertical-align: middle; width: 40px; height: 40px;">       | **Steam**    | Web API                   |
+| <img src="apis/spotify.svg" alt="spotify" style="vertical-align: middle; width: 40px; height: 40px;">   | **Spotify**  | Web API, OAuth2           |
+| <img src="apis/valorant.svg" alt="valorant" style="vertical-align: middle; width: 40px; height: 40px;"> | **Valorant** | Web API                   |
 
 ## ⭐ Skills
 
