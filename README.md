@@ -2,9 +2,9 @@
 
 ## 👀 About Me
 
-<img src="images/birthday.svg" alt="discord" style="vertical-align: middle; width: 40; height: 40;"> 20 years oldy<br>
-<img src="images/coding.svg" alt="discord" style="vertical-align: middle; width: 40; height: 40;"> Backend Developer<br>
-<img src="images/architect.svg" alt="discord" style="vertical-align: middle; width: 40; height: 40;"> Interested in Software Architecture and Design Patterns<br>
+<img src="images/birthday.svg" alt="discord" style="vertical-align: middle; width: 40px; height: 40px;"> 20 years oldy<br>
+<img src="images/coding.svg" alt="discord" style="vertical-align: middle; width: 40px; height: 40px;"> Backend Developer<br>
+<img src="images/architect.svg" alt="discord" style="vertical-align: middle; width: 40px; height: 40px;"> Interested in Software Architecture and Design Patterns<br>
 
 ## 📫 How to reach me
 
@@ -12,11 +12,11 @@
 
 ## APIs that I have worked with
 
-<img src="images/discord.svg" alt="discord" style="vertical-align: middle; width: 40; height: 40;"> **Discord** (Bot API, OAuth2, Webhooks)<br>
-<img src="images/github.svg" alt="github" style="vertical-align: middle; width: 40; height: 40;"> **GitHub** (Web API)<br>
-<img src="images/steam.svg" alt="steam" style="vertical-align: middle; width: 40; height: 40;"> **Steam** (Web API)<br>
-<img src="images/spotify.svg" alt="spotify" style="vertical-align: middle; width: 40; height: 40;"> **Spotify** (Web API, OAuth2)<br>
-<img src="images/valorant.svg" alt="valorant" style="vertical-align: middle; width: 40; height: 40;"> **Valorant** (Web API)<br>
+<img src="images/discord.svg" alt="discord" style="vertical-align: middle; width: 40px; height: 40px;"> **Discord** (Bot API, OAuth2, Webhooks)<br>
+<img src="images/github.svg" alt="github" style="vertical-align: middle; width: 40px; height: 40px;"> **GitHub** (Web API)<br>
+<img src="images/steam.svg" alt="steam" style="vertical-align: middle; width: 40px; height: 40px;"> **Steam** (Web API)<br>
+<img src="images/spotify.svg" alt="spotify" style="vertical-align: middle; width: 40px; height: 40px;"> **Spotify** (Web API, OAuth2)<br>
+<img src="images/valorant.svg" alt="valorant" style="vertical-align: middle; width: 40px; height: 40px;"> **Valorant** (Web API)<br>
 
 ## 💬 Ask me about
 
