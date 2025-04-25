@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi there, I'm Timo
 
-<!--
-**EchterTimo/EchterTimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About Me
 
-Here are some ideas to get you started:
+<img src="images/birthday.svg" alt="discord" style="vertical-align: middle; width: 40; height: 40;"> 20 years oldy<br>
+<img src="images/coding.svg" alt="discord" style="vertical-align: middle; width: 40; height: 40;"> Backend Developer<br>
+<img src="images/architect.svg" alt="discord" style="vertical-align: middle; width: 40; height: 40;"> Interested in Software Architecture and Design Patterns<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+
+- Discord: [@EchterTimo](https://discordapp.com/users/EchterTimo.md)
+
+## APIs that I have worked with
+
+<img src="images/discord.svg" alt="discord" style="vertical-align: middle; width: 40; height: 40;"> **Discord** (Bot API, OAuth2, Webhooks)<br>
+<img src="images/github.svg" alt="github" style="vertical-align: middle; width: 40; height: 40;"> **GitHub** (Web API)<br>
+<img src="images/steam.svg" alt="steam" style="vertical-align: middle; width: 40; height: 40;"> **Steam** (Web API)<br>
+<img src="images/spotify.svg" alt="spotify" style="vertical-align: middle; width: 40; height: 40;"> **Spotify** (Web API, OAuth2)<br>
+<img src="images/valorant.svg" alt="valorant" style="vertical-align: middle; width: 40; height: 40;"> **Valorant** (Web API)<br>
+
+## 💬 Ask me about
+
+### 🖥️ Languages
+
+[![Python](https://skillicons.dev/icons?i=python)](https://vuejs.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Markdown](https://skillicons.dev/icons?i=md)](https://vuejs.org/)
+[![Regex](https://skillicons.dev/icons?i=regex)](https://regex101.com/)
+
+### 🌐 Web Development
+
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/2.3.x/)
+
+### 🛠️ Tools & Platforms
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/)
+
+### 💾 Databases
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+
+## 🌱 I’m currently learning
+
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://vuejs.org/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
