@@ -47,8 +47,8 @@
 ### 💾 Databases
 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
 
 ## 🌱 I’m currently learning
 
