@@ -9,6 +9,7 @@
 ## 📫 How to reach me
 
 - Discord: **[EchterTimo](https://discordapp.com/users/709821646776565760)**
+- Email: **[info@timo.software](mailto:info@timo.software)**
 
 ## APIs that I have worked with
 
