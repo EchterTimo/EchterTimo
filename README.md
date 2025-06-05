@@ -55,5 +55,3 @@
 
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
-[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
