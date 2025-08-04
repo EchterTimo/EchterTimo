@@ -1,0 +1,8 @@
+{
+  "markdownlint.config": {
+    "no-inline-html": false,
+    "first-line-heading": false,
+    "no-alt-text": false,
+    "no-empty-links": false
+  }
+}
