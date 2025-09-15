@@ -12,4 +12,4 @@
 |Platform|Name|
 |:-|:-|
 |**Email**|[info@timo.software](mailto:info@timo.software)|
-|**Discord**|[![Discord user 709821646776565760](https://discord.c99.nl/widget/theme-1/709821646776565760.png)](https://discord.com/users/709821646776565760)|
+|**Discord**|[![https://discord.com/users/709821646776565760](https://discord.c99.nl/widget/theme-1/709821646776565760.png)](https://discord.com/users/709821646776565760)|
