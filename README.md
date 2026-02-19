@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="images/wave.gif" width="30px" height="30px">, I'm Timo!</h1>
-<h3 align="center"><b>Web Developer</b> | <b>Python Enthusiast</b> | <b>TypeScript Fan</b></h3>
+<h3 align="center">Web Developer | Python | TypeScript | AI & ML</h3>
 
 ## About me
 
