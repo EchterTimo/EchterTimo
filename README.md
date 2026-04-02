@@ -5,7 +5,7 @@
 
 - Experienced Python Developer
 - Expert of [Discord API](https://discord.dev/) (OAuth2, Gateway, REST, ~~Game SDK~~)
-- Learning Vue.js
+- Learning Go and Vue.js
 
 ## Contact me
 
