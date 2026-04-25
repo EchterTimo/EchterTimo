@@ -1,5 +1,8 @@
-<h1 align="center">Hey <img src="images/wave.gif" width="30px" height="30px">, I'm Timo!</h1>
-<h3 align="center">Web Developer | Python | Go | TypeScript | AI & ML</h3>
+<div align="center">
+  <h1>Hey <img src="images/wave.gif" width="30px" height="30px">, I'm Timo!</h1>
+  <h3>Web Developer | Python | Go | TypeScript | AI & ML</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=EchterTimo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark&border_radius=20">
+</div>
 
 ## About me
 
