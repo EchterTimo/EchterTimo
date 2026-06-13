@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey <img src="images/wave.gif" width="30px" height="30px">, I'm Timo!</h1>
-  <h3>Web Developer | Python | Go | TypeScript | AI & ML</h3>
+  <h3>Web Developer | Python | Go | AI & ML</h3>
 </div>
 
 ## About me
